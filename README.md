@@ -1,6 +1,6 @@
-# SwapTech
+# SwapTech 
 A Swap Tech é um site que tem como objetivo fornecer uma comunidade onde pessoas podem fazer suas trocas ou doações de peças de computador de usuário para outro usuário, totalmente focado para pessoas com poucas condições que consigam realizar o sonho de montar o seu próprio setup.
-![Swap Tech - Logo](https://github.com/user-attachments/assets/06be765c-91fa-4008-8bdf-8621db96394b)
+![Swap Tech - Logo](https://github.com/user-attachments/assets/7dc7d402-0097-44cf-b30e-a2eacc4ac92f)
 # Funcionalidades Especiais
 # Geral
 - Cadastramento do seu produto para troca.
@@ -31,3 +31,8 @@ A Swap Tech é um site que tem como objetivo fornecer uma comunidade onde pessoa
 - Desing atrativo.
 - Sistema próprio de rastreamento.
 # Diagrama de Caso de Uso:
+![Imagem do WhatsApp de 2025-03-16 à(s) 22 02 35_3b4c796d](https://github.com/user-attachments/assets/62bd5097-3438-442b-8ba7-e3270c609a26)
+
+Projeto de faculdade - Una | Modelagem de Software.
+
+Membros: Moisés Lameo Lana  e Flavio Gabriel Athaide de Oliveira.
