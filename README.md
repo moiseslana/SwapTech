@@ -33,6 +33,10 @@ A Swap Tech é um site que tem como objetivo fornecer uma comunidade onde pessoa
 # Diagrama de Caso de Uso:
 ![Imagem do WhatsApp de 2025-03-16 à(s) 22 02 35_3b4c796d](https://github.com/user-attachments/assets/62bd5097-3438-442b-8ba7-e3270c609a26)
 
+#  Diagrama de Atividades
+# Processo de Troca de Peça
+![Imagem do WhatsApp de 2025-03-28 à(s) 16 33 39_e5b3e31f](https://github.com/user-attachments/assets/ef2921e0-c7db-49bd-8399-131ffff70946)
+
 Projeto de faculdade - Una | Modelagem de Software.
 
-Membros: Moisés Lameo Lana  e Flavio Gabriel Athaide de Oliveira.
+
