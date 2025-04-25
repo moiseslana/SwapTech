@@ -42,12 +42,14 @@ A Swap Tech é um site que tem como objetivo fornecer uma comunidade onde pessoa
 # Processo de troca de peças de usuário pra outro usuário:
 ![Captura de tela 2025-04-04 170818](https://github.com/user-attachments/assets/7a3a6c86-cc3a-4e0f-a608-9e9002d485b6)
 
+
+
 # Diagrama de Sequência:
 ![Imagem do WhatsApp de 2025-04-04 à(s) 13 47 53_6f5ab3c9](https://github.com/user-attachments/assets/8f903937-6c1d-487b-a987-b36227f10d66)
 
 # Diagrama de Classes:
-![Diagrama de Classes P1](https://github.com/user-attachments/assets/a0346096-b21e-4a10-8902-cb524a264443)
-![Diagrama de Classes P2](https://github.com/user-attachments/assets/cf2acf66-4e6c-4ac2-b9a4-bac801571b44)
+![Diagrama de Classes](https://github.com/user-attachments/assets/baeae9d3-00b1-4a4e-8cab-3e687e5372d9)
+
 
 
 
